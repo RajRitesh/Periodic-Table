@@ -7,4 +7,8 @@ This is Modern Periodic Table Project. The language I used for designing the per
 * I have used hover effect in each element so that it looks more beautiful.<br>
 * When click on any Element then the Wikipedia of that element will be open. <br>
 
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE](License.txt) file for details
+
 
